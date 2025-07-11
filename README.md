@@ -68,10 +68,10 @@ Hi! I'm Priyansh, a DevOps enthusiast with hands-on experience in CI/CD pipeline
 
 ## 📫 Contact
 
-- **GitHub**: [github.com/yourusername](https://github.com/Priyansh-Pandey)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://www.linkedin.com/in/priyansh-kumar-pandey/)
+- **GitHub**: (https://github.com/Priyansh-Pandey)
+- **LinkedIn**: (https://www.linkedin.com/in/priyansh-kumar-pandey/)
 - **Email**: priyansh.aws@gmail.com
-- **Resume**: 📄 View My Resume](./Priyansh_Kumar_Pandey_Resume.pdf)
+- **Resume**: 📄 View My Resume](./Priyansh-Kumar-Pandey-Resume.pdf)
 
 ---
 
