@@ -35,7 +35,7 @@ Hi! I'm Priyansh, a DevOps enthusiast with hands-on experience in CI/CD pipeline
 - RESTful API with CRUD operations
 - GitHub Actions CI/CD with Trivy vulnerability scanning
 - Docker Compose for service orchestration  
-**GitHub Repo**: [🔗 Link Here](#)
+**GitHub Repo**: [🔗 https://github.com/Priyansh-Pandey/3-tier-node-todo-app
 
 ---
 
