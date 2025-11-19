@@ -14,7 +14,7 @@ Hi! I'm Priyansh, a DevOps enthusiast with hands-on experience in CI/CD pipeline
 - Implemented SSL certificate generation, Nginx configuration, and security hardening scripts
 - Validated with Oracle agent (100% pass) and Null agent (0% baseline) for task integrity
 - Contributed to open-source AI agent evaluation ecosystem  
-**GitHub Repo**: [🔗 nginx-ssl-security-fix](https://github.com/Priyansh-Pandey/nginx-ssl-security-fix) *(Update with your actual repo link)*
+**GitHub Repo**: [🔗 nginx-ssl-security-fix](https://github.com/Priyansh-Pandey/terminal-bench-nginx-ssl-task.git) *(Update with your actual repo link)*
 
 ---
 
